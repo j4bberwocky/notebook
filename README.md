@@ -18,7 +18,7 @@ docker run --rm -it --name hugo-book-container -v <LOCAL-DEV-PATH>:/src klakegg/
 ```
 
 Adesso per creare nuovo sito entriamo con la shell e con i seguenti comandi (utilizziamo ad esempio
-[queesto tema](https://github.com/alex-shpak/hugo-book) che ho in fork):
+[questo tema](https://github.com/alex-shpak/hugo-book) che ho in fork):
 
 ```shell
 hugo new site hugo-book-site
