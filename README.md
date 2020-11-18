@@ -25,7 +25,6 @@ hugo new site hugo-book-site
 cd hugo-book-site
 git init
 git submodule add https://github.com/j4bberwocky/hugo-book.git themes/book
-echo 'theme = "book"' >> config.toml
 cp -R themes/book/exampleSite/content .
 ```
 
@@ -39,5 +38,5 @@ docker run --rm --name hugo-book-container -it -p 1313:1313 -v <LOCAL-DEV-PATH>:
 Infine serviamo il sito
 
 ```shell
-hugo serve
+hugo server --minify --theme book
 ```
