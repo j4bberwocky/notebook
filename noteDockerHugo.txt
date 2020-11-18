@@ -1,9 +1,10 @@
-docker run --rm -it --name hugo-book-container -v //c/Users/tcortone.ITALY/Documents/repos/github.com/j4bberwocky/notebook:/src klakegg/hugo:0.78.2-ext-alpine shell
+docker run --rm --name hugo-book-container -it -p 1313:1313 -v //c/Users/tcortone.ITALY/Documents/repos/github.com/j4bberwocky/notebook:/src klakegg/hugo:0.78.2-ext-alpine shell
 
 hugo new site hugo-book-site
 cd hugo-book-site
 git init
-git submodule add https://github.com/j4bberwocky/hugo-book.git themes/hugo-book
+git submodule add https://github.com/j4bberwocky/hugo-book.git themes/book
+cp -R themes/book/exampleSite/content .
 
 docker run --rm --name hugo-book-container -it -p 1313:1313 -v //c/Users/tcortone.ITALY/Documents/repos/github.com/j4bberwocky/notebook:/src klakegg/hugo:0.78.2-ext-alpine shell
 hugo server --minify --theme book
