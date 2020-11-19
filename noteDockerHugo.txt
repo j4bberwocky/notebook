@@ -6,5 +6,50 @@ git init
 git submodule add https://github.com/j4bberwocky/hugo-book.git themes/book
 cp -R themes/book/exampleSite/content .
 
-docker run --rm --name hugo-book-container -it -p 1313:1313 -v //c/Users/tcortone.ITALY/Documents/repos/github.com/j4bberwocky/notebook:/src klakegg/hugo:0.78.2-ext-alpine shell
 hugo server --minify --theme book
+
+Prime cose da metterci e studiare ad esempio
+
+https://github.com/BafS/Java8-CheatSheet
+https://tomgregory.com/building-a-spring-boot-application-in-jenkins/
+https://www.baeldung.com/jenkins-pipelines
+
+# Inspiring portfolios
+L'idea è di mettere su un sito con questa concezione
+https://github.com/RichardLitt/meta-knowledge
+utilizzando questo tema hugo --> https://themes.gohugo.io//theme/hugo-book/docs/example/
+Ispirazione oltre ai siti personlai sotto posso risultare
+http://www.rudimathematici.com/link/linkdb.php
+http://orporick.github.io/
+http://www.dimostriamogoldbach.it
+http://proooof.blogspot.com/
+https://mathblog.com
+https://danielwiese.com/posts/site-setup/
+
+
+Oltr a wiki personale vorrei proporre delle riflessioni personali e originali su matematica, teologia, programmazione, architettura e devops ecc
+https://christopher.su/resume/
+https://www.juliaferraioli.com/
+https://francescaguiducci.com/
+https://blog.jessfraz.com/
+https://filippo.io/
+https://www.antonioscatoloni.it/
+https://www.brianketelsen.com/
+https://dave.cheney.net/
+http://orporick.github.io/
+https://www.ryanckulp.com/
+https://www.nateliason.com/
+https://sivers.org/
+https://get.dev/
+http://findmatthew.com/
+https://tkainrad.dev/
+http://ejosue.com/
+https://www.ybrikman.com/
+https://caferati.me/
+https://jtom.me/portfolio/
+https://andrewborstein.com/
+http://www.kaiwa-projects.com/
+http://www.nicodante.it/
+https://davioooh.com/
+https://liatas.com/
+https://christine.website/
