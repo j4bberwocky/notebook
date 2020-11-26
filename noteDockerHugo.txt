@@ -8,6 +8,8 @@ cp -R themes/book/exampleSite/content .
 
 hugo server --minify --theme book
 
+***************************************************************
+
 Prime cose da metterci e studiare ad esempio
 
 https://github.com/BafS/Java8-CheatSheet
@@ -19,15 +21,28 @@ L'idea è di mettere su un sito con questa concezione
 https://github.com/RichardLitt/meta-knowledge
 utilizzando questo tema hugo --> https://themes.gohugo.io//theme/hugo-book/docs/example/
 Ispirazione oltre ai siti personlai sotto posso risultare
-http://www.rudimathematici.com/link/linkdb.php
-http://orporick.github.io/
-http://www.dimostriamogoldbach.it
-http://proooof.blogspot.com/
-https://mathblog.com
-https://danielwiese.com/posts/site-setup/
 
+- https://knowledge.rachelbrindle.com/
+- https://wiki.mylesb.ca/
+- https://lyz-code.github.io/blue-book/
+- https://wiki.nikitavoloboev.xyz/
+- http://memo-dev.marc-loupias.fr/
+- http://orporick.github.io/
+- https://danielwiese.com/
+- https://sive.rs/
+- https://catonmat.net/
+- https://github.com/KasperZutterman/Second-Brain
 
-Oltr a wiki personale vorrei proporre delle riflessioni personali e originali su matematica, teologia, programmazione, architettura e devops ecc
+# Infine da deployare in ci/cd magari su git hub pages con le relative actions
+https://medium.com/front-end-weekly/ci-cd-with-github-actions-to-deploy-on-github-pages-73e225f8f131
+https://veerendra2.github.io/ci-cd-github-pages-with-github-actions/
+https://blog.scottlogic.com/2020/02/24/github-cd.html
+https://medium.com/@asishrs/automate-your-github-pages-deployment-using-hugo-and-actions-518b959a51f9
+
+# da sistemaree
+https://docs.docker.com/docker-for-windows/wsl/#develop-with-docker-and-wsl-2
+
+# Oltre a wiki personale vorrei proporre delle riflessioni personali e originali su matematica, teologia, programmazione, architettura e devops ecc
 https://christopher.su/resume/
 https://www.juliaferraioli.com/
 https://francescaguiducci.com/
