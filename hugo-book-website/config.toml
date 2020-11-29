@@ -35,7 +35,7 @@ enableGitInfo = true
 # [[menu.before]]
 [[menu.after]]
   name = "Github"
-  url = "https://github.com/j4bberwocky/notebook"
+  url = "https://github.com/j4bberwocky"
   weight = 10
 
 [[menu.after]]
