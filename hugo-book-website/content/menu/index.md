@@ -13,5 +13,7 @@ headless: true
     - [Hints]({{< relref "/docs/notes/number-theory/examples/hints" >}})
     - [katex]({{< relref "/docs/notes/number-theory/examples/ketex" >}})
     - [mermaid]({{< relref "/docs/notes/number-theory/examples/mermaid" >}})
+  - [Elementary & Programming]({{< relref "/docs/notes/number-theory/elementary-number-theory-with-programming" >}})
+    - [Special Numbers]({{< relref "/docs/notes/number-theory/elementary-number-theory-with-programming/special-numbers" >}})
 
 <br />
