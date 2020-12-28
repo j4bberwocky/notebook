@@ -28,6 +28,7 @@ top
 - https://lyz-code.github.io/blue-book/
 - https://wiki.nikitavoloboev.xyz/
 - https://catonmat.net/summary-of-mit-introduction-to-algorithms
+- https://learning-notes.mistermicheels.com/about/about/
 
 others
 - https://knowledge.rachelbrindle.com/

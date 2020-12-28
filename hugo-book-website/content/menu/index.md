@@ -15,5 +15,7 @@ headless: true
     - [mermaid]({{< relref "/docs/notes/number-theory/examples/mermaid" >}})
   - [Elementary & Programming]({{< relref "/docs/notes/number-theory/elementary-number-theory-with-programming" >}})
     - [Special Numbers]({{< relref "/docs/notes/number-theory/elementary-number-theory-with-programming/special-numbers" >}})
+- [Software Engineering]({{< relref "/docs/notes/software-engineering" >}})
+  - [SCRUM]({{< relref "/docs/notes/software-engineering/scrum" >}})
 
 <br />
