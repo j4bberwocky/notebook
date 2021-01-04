@@ -199,10 +199,18 @@ An Increment is a concrete stepping stone toward the Product Goal. The sum of th
 
 The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product. The Developers are required to conform to the Definition of Done.
 
+## PSM I Exam
+
+Some usefull infos:
+
+- Passing score: 85%
+- Time limit: 60 minutes
+- Number of Questions: 80
+
 ## References
 
 The material in this page is taken from:
 
 - [Scrum Guide 2020](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
 - [PSM 1 certification](https://www.linkedin.com/pulse/my-guide-scum-master-1-psm-certification-marco-buchmayer/?articleId=6657675704907382784)
-- [PSM 1 notes](https://www.pbeck.co.uk/2019/09/scrum-part-5-certification-psm-1.html)
+- [Scrum quizzes](https://mlapshin.com/index.php/scrum-quizzes/)
