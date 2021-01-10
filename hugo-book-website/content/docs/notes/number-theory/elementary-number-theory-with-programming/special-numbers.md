@@ -33,3 +33,19 @@ The sum of the first *n* odd numbers is
 {{< katex display >}}
 1 + 3 + \dots + (2n-1) = \sum_{k=1}^{n}(2k-1) = 2(1 + 2 + \dots + n) - n = 2\frac{n(n+1)}{2} - n = n^2
 {{< /katex >}}
+
+Let {{< katex >}}S = 1 + a + a^2 + a^3 + \dots + a^{n-1}{{< /katex >}}, with {{< katex >}}a \in \mathbb{N}{{< /katex >}}. Then {{< katex >}}aS = a + a^2 + \dots + a^{n-a} + a^n{{< /katex >}}. Subtract the first equation from the second and we get {{< katex >}}(a - 1)S = a^{n-1}{{< /katex >}}, and so
+
+{{< katex display >}}
+\sum_{i=0}^{n} a^i = 1 + a + a^2 + \dots + a^{n-1} = \frac{a^n-1}{a-1}
+{{< /katex >}}
+
+In this way the Pythagoreans computed the sum of the first *n* powers of two: {{< katex >}}\sum_{i=0}^{n-1}2^i = 2^{n}-1{{< /katex >}}.
+
+## Deficient, Abundant and Perfect numbers
+
+If the sum of the proper factors of *n* is less than *n*, then *n* is *deficeint*. If the sum of the proper factors of *n* exeeds *n*, then *n* is *abundant*. If the sum of th proper factor of *n* is equal to *n*, then *n* is *perfect*.
+
+It is not know today if there are infinitely many perfec numbers, and all the perfect numbers are even, no one knows if there are any odd perfect numbers!
+
+The smallest abundant odd number is *945*, while the smallest aboundant even number is *12*.

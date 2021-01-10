@@ -23,7 +23,7 @@ Transparency enables inspection.
 
 ### Inspection
 
-The Scrum artifacts and the progress toward agreed goals must be inspected frequentl and diligently to detect potentially undesiderable variance of problems.
+The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesiderable variance of problems.
 
 To help with inspection, Scrum provides cadence in the form of five events.
 

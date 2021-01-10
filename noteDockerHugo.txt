@@ -15,7 +15,7 @@ Prime cose da metterci e studiare ad esempio
 https://github.com/BafS/Java8-CheatSheet
 https://tomgregory.com/building-a-spring-boot-application-in-jenkins/
 https://www.baeldung.com/jenkins-pipelines
-latex cheatsheet
+http://tug.ctan.org/info/undergradmath/undergradmath.pdf
 
 # Inspiring portfolios
 L'idea è di mettere su un sito con questa concezione
