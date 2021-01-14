@@ -65,7 +65,7 @@ The Scrum Team consist of one *Scrum Master*, one *Product Owner* and *Developer
 
 ### Developers
 
-Developers are the people in the Scrum Team that are committed to create any aspect of a usable incrment each Sprint.
+Developers are the people in the Scrum Team that are committed to create any aspect of a usable increment each Sprint.
 
 The Developers are accountable for:
 

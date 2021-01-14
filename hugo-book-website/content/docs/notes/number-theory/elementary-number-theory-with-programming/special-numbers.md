@@ -44,8 +44,16 @@ In this way the Pythagoreans computed the sum of the first *n* powers of two: {{
 
 ## Deficient, Abundant and Perfect numbers
 
-If the sum of the proper factors of *n* is less than *n*, then *n* is *deficeint*. If the sum of the proper factors of *n* exeeds *n*, then *n* is *abundant*. If the sum of th proper factor of *n* is equal to *n*, then *n* is *perfect*.
+If the sum of the proper factors of *n* is less than *n*, then *n* is *deficeint*. If the sum of the proper factors of *n* exeeds *n*, then *n* is *abundant*. If the sum of th proper factor of *n* is equal to *n*, then *n* is *perfect*. See [wiki](https://en.wikipedia.org/wiki/Perfect_number) for more infos.
 
 It is not know today if there are infinitely many perfec numbers, and all the perfect numbers are even, no one knows if there are any odd perfect numbers!
 
 The smallest abundant odd number is *945*, while the smallest aboundant even number is *12*.
+
+Leonhard Euler showed that all the *even* perfect numbers are of the form {{< katex >}}2^{n-1}(2^n-1){{< /katex >}} where {{< katex >}}2^n-1{{< /katex >}} is prime.
+
+The prime sum {{< katex >}}2^n-1{{< /katex >}} is called *Mersenne prime*.
+
+*Amicable numbers* are two different numbers related in such a way that the sum of the proper divisors of each is equal to the other number.
+
+The smallest pair of amicable numbers is {{< katex >}}(220, 284){{< /katex >}}. They are amicable because the proper divisors of {{< katex >}}220{{< /katex >}} are {{< katex >}}1, 2, 4, 5, 10, 11, 20, 22, 44, 55{{< /katex >}} and {{< katex >}}110{{< /katex >}}, of which the sum is {{< katex >}}284{{< /katex >}}; and the proper divisors of {{< katex >}}284{{< /katex >}} are {{< katex >}}1, 2, 4, 71{{< /katex >}} and {{< katex >}}142{{< /katex >}}, of which the sum is {{< katex >}}220{{< /katex >}}.

@@ -17,6 +17,12 @@ https://tomgregory.com/building-a-spring-boot-application-in-jenkins/
 https://www.baeldung.com/jenkins-pipelines
 http://tug.ctan.org/info/undergradmath/undergradmath.pdf
 
+per number theory:
+http://faculty.purchase.edu/jeanine.meyer/numbertheory/
+https://en.wikipedia.org/wiki/Divisor_function
+https://primes.utm.edu/notes/proofs/EvenPerfect.html
+
+
 # Inspiring portfolios
 L'idea è di mettere su un sito con questa concezione
 https://github.com/RichardLitt/meta-knowledge
