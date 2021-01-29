@@ -31,6 +31,7 @@ Ispirazione oltre ai siti personlai sotto posso risultare
 
 top
 - https://danielwiese.com/posts/site-setup/
+- https://jeremykun.com/
 - https://lyz-code.github.io/blue-book/
 - https://wiki.nikitavoloboev.xyz/
 - https://catonmat.net/summary-of-mit-introduction-to-algorithms

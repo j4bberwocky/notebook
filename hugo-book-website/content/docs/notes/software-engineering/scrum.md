@@ -2,6 +2,30 @@
 
 **Scrum** is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
 
+## Agile Manifesto
+
+### Agile Values
+
+1. Individuals and interaction *over* process and tools
+2. Working software *over* comprehensive documentation
+3. Customer collaboration *over* contract negotiation
+4. Responding to change *over* following a plan
+
+### Agile Principle
+
+1. Satisfy the Customer
+2. Welcome Change
+3. Deliver Frequently
+4. Work together
+5. Trust and Support
+6. Face-to-face conversation
+7. Working software
+8. Sustainable development
+9. Continuous attention
+10. Mantain Simplicity (*KISS*)
+11. Self-organizing teams
+12. Reflect and Adjust
+
 ## Scrum Theory
 
 Scrum is founded on *empiricism* and *lean thinking*:
@@ -57,7 +81,7 @@ The Scrum Team members have the *courage* to do the right thing, to work on toug
 
 ## Scrum Team
 
-The Scrum Team consist of one *Scrum Master*, one *Product Owner* and *Developers*. It is a cohesive unit of professionals focused on one objective at time, the *Product Goals*.
+The Scrum Team consist of one *Scrum Master*, one *Product Owner* and *Developers*. It is a cohesive unit of professionals focused on one objective at time, the *Product Goals*. The Scrum team is designed to optimize *flexibility*, *creativity* and *productivity*.
 
 - Scrum Team are *cross functional*: members have all the skills necessary to create value each Sprint.
 - Scrum Team are *self-managed*: internally they decide who does what, when and how.
@@ -207,10 +231,32 @@ Some usefull infos:
 - Time limit: 60 minutes
 - Number of Questions: 80
 
+### New Version of the Guide (2020)
+
+- Less strict
+- Product Goal introduction
+- Only one Team: the Scrum Team; Development Team are replaced by Developers that are internal to the Scrum Team
+- More clear collocation of Sprint Goal, Product Goal and definition of done
+- Self-organization instead of self-management
+- Added third topic to the Sprint Planning: why
+- Removed:
+  - IT reference
+  - prescriptive elements in the Sprint review
+  - details of the outcome of the Sprint Retrospective
+  - from the Sprint Retrospective
+  - the mandatory improvements to be implemented in the next sprint (from the Sprint Retrospective)
+  - limit of *10%* for Backlog Refinement
+  - monitor toware Goal in the Product Backlog
+  - the use of DoD in the organization
+  - the three example questions of the Daily Scrum
+  - meetings after the Daily Scrum for insights and re-planning
+
 ## References
 
 The material in this page is taken from:
 
 - [Scrum Guide 2020](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
 - [PSM 1 certification](https://www.linkedin.com/pulse/my-guide-scum-master-1-psm-certification-marco-buchmayer/?articleId=6657675704907382784)
+- [Scrum Glossary](https://www.scrum.org/resources/scrum-glossary)
+- [Open assestment](https://www.scrum.org/open-assessments/scrum-open)
 - [Scrum quizzes](https://mlapshin.com/index.php/scrum-quizzes/)
